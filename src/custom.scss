@@ -1,0 +1,7 @@
+// custom.scss
+
+// Überschreibe die Bootstrap-Variablen
+$primary: #9b6500; // Beispiel für eine neue Primärfarbe
+
+// Importiere Bootstrap
+@import '~bootstrap/scss/bootstrap';
